@@ -1,0 +1,52 @@
+/* specific styles for bootstrap demo*/
+
+.gray-box {
+    background: #1f8ae0;
+    height: 200px;
+    padding: 25px;
+}
+ 
+.white-box {
+    min-height: 150px;
+    background: white;
+    border-radius: 10px;
+    border: 1px solid white;
+}
+
+.blue-box {
+    height: 45px;
+    background: #1f8ae0;   
+}
+
+.navy-box {
+    height: 110px;
+    border: 1px solid navy;
+}
+
+.green-box {
+    height: 75px;
+    background: #33cc66;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.lightgray-box {
+    height: 50px;
+    border: 1px solid gray;
+    margin-top: 40px;
+}
+
+.sidebar-box {
+    height: 835px;
+    border: 1px solid gray;
+}
+
+.content-box {
+    height: 835px;
+    border: 1px solid gray;
+}
+
+.anotherblue-box {
+    height: 200px;
+    border: 1px solid blue;
+}
