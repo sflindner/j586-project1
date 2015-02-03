@@ -1,0 +1,381 @@
+/* specific styles for bootstrap demo*/
+
+
+.box {
+    height: 60px;
+    border-top: 1px solid gray;
+}
+
+.box2 {
+    height: 60px;
+    border-top: 1px solid gray;
+    border-bottom: 1px solid gray;
+}
+
+.box3 {
+    height: 60px;
+}
+
+.gray-box {
+    background: #1f8ae0;
+    height: 200px;
+    padding: 25px;
+}
+ 
+.white-box {
+    min-height: 150px;
+    background: white;
+    border-radius: 10px;
+    border: 1px solid white;
+}
+
+.blue-box {
+    height: 45px;
+    background: #1f8ae0;   
+}
+
+.navy-box {
+    height: 110px;
+    background: #134670;
+}
+
+.green-box {
+    height: 75px;
+    background: #33cc66;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.lightgray-box1 {
+    height: 50px;
+    border-top: 1px solid gray;
+    border-left: 1px solid gray;
+    margin-top: 40px;
+}
+
+.lightgray-box2 {
+    height: 50px;
+    border-top: 1px solid gray;
+    border-left: 1px solid gray;
+    border-right: 1px solid gray;
+    margin-top: 40px;
+}
+
+.lightgray-box {
+    height: 50px;
+    border: 1px solid gray;
+    margin-top:40px;
+}
+
+.sidebar-box {
+    height: 835px;
+    border: 1px solid gray;
+}
+
+.responses-box {
+    height: 100px;
+    border: solid orange;
+}
+
+.content-box {
+    height: 835px;
+    border: 1px solid gray;
+}
+
+.anotherblue-box {
+    height: 200px;
+    border: 1px solid blue;
+}
+
+.tallbox {
+    height: 370px;
+}
+
+.mediumbox {
+    height: 280px;
+    border-top: 1px solid gray;
+    
+}
+
+.smallbox {
+    height: 165px;
+    border-top: 1px solid gray;
+}
+
+.middle-box {
+    height: 200px;
+    border: 1px solid gray;
+    margin-top: 44px;
+    border-radius: 4px;
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+
+.little-box{
+    height: 130px;
+    background-color: #2498f4;
+    border-radius: 4px;
+    margin-top: 16px;
+    font-family: "Myriad Pro";
+    color: white;
+    padding: 15px;
+    padding-left: 30px;
+}
+
+.p-head {
+    font-family: "Myriad Pro";
+    color: white;
+    padding-top: 15px;
+    padding-left: 1100px;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.p-dashboard {
+    font-family: "Myriad Pro";
+    color: white;
+    font-size: 34px;
+    padding-top: 16px;
+}
+
+.p-announcements {
+    font-family: "Myriad Pro";
+    color: #fe7f13;
+    font-size: 14px;
+    padding-top: 15px;
+}
+
+.p-latin {
+    font-family: "Myriad Pro";
+    color: #777777;
+    font-size: 14px;
+    padding-top: 15px;
+}
+
+.action_page {
+    height: 10px;
+    paddint-left: 100px;
+}
+
+hr {
+    width: 100%;
+    border: 1px dashed;
+    color: #e5e5e5;
+    margin-top: 8px;
+}
+
+.p-tasks {
+    font-family: "Myriad Pro";
+    color: #2498f4;
+    font-size: 32px;
+    padding-top: 20px;
+}
+
+.p-responses {
+    font-family: "Myriad Pro";
+    font-size: 21px;
+    color: #2498f3;
+    padding-top: 14px;
+    text-indent: 40px;
+}
+
+.recombox {
+    border: none;
+    font-size: 32px;
+    font-family: "Myriad Pro";
+    color: #2498f3;
+    padding-top: 20px;
+}
+
+.nostyle {
+    font-family: "Myriad Pro";
+    font-size: 10px;
+    color: gray;
+    line-height: 110%;
+    text-indent: 40px;
+}
+
+.steps {
+    font-family: "Myriad Pro";
+    font-size: 16px;
+    color: gray;
+    line-height: 110%;
+    text-indent: 40px;
+}
+
+.br {
+    display: block;
+    margin-top: -2px;
+    font-size:2px;
+    line-height: 1px;
+}
+
+#analytics {
+    height: 75%;
+    width: 75%;
+}
+
+large {
+    height: 20%;
+    width: 20%;
+}
+
+.dyk {
+    font-family: "Myriad Pro";
+    font-size: 13px;
+    color: white;
+    padding-top: 16px;
+}
+
+.latinhere {
+    font-family: "Myriad Pro";
+    font-size: 15px;
+    color: white;
+    line-height: 100%;
+}
+
+.circle
+{
+width:20px;
+height:20px;
+border-radius:50%;
+color: #32cc66;
+line-height:500px;
+background:#32cc66;
+margin: 18px;
+}
+
+.threeboxes {
+    font-family: "Myriad Pro";
+    font-size: 20px;
+    color: #32cc66;
+    text-align: right;
+    padding-top: 50px;
+    padding-right: 10px;
+    line-height: 110%;
+}
+
+.rightbox {
+    font-family: "Myriad Pro";
+    font-size: 20px;
+    color: #fe7f13;
+    text-align: left;
+    padding-top: 50px;
+    padding-left: 10px;
+    line-height: 110%;
+}
+
+
+.fourboxes {
+    font-family: "Myriad Pro";
+    font-size: 14px;
+    color: #666666;
+    text-align: right;
+}
+
+.asdf {
+    width: 100%;
+    height: 50px;
+    color: #2394ee;
+}
+
+#orange {
+    width: 50%;
+    height: 150px;
+    float: right;
+    margin-top: -50px;
+    border-radius: 10px;
+}
+
+#wheel1 {
+    padding-bottom: 200px;
+}
+
+#wheel2 {
+    padding-bottom: 10px;
+    margin-top: -150px;
+    float: right;
+    margin-right: 55px;
+}
+
+#green {
+    width: 50%;
+    height: 148px;
+    float: left;
+    margin-top: -50px;
+    border-radius: 10px;
+}
+
+#file {
+    width: 8%;
+    height: 50%;
+    margin-top: -80px;
+}
+
+#rightarrow {
+    height: 60px;
+    width: 30px;
+    float: left;
+    margin-left: -30px;
+}
+
+#leftarrow {
+    height: 60px;
+    width: 30px;
+    float: right;
+    margin-right: -15px;
+}
+
+#greengraph {
+    width: 99%;
+    padding-top:100px;
+}
+
+#orangegraph {
+    width: 99%;
+    padding-top: 100px;
+}
+
+#person {
+    width: 50%;
+    margin-top: -400px;
+    margin-left: 50px;
+    align-content: center;
+}
+
+.brectangle {
+    background-color: #2394ee;
+    height: 50px;
+    margin-top: -130px;
+}
+
+.grectangle {
+    background-color: #33cc66;
+    height: 30px;
+    margin-top: 60px;
+}
+
+.persontext {
+    font-family: "Myriad Pro";
+    color: white;
+    font-size: 21px;
+    text-align: center;
+}
+
+.influencers {
+    font-family: "Myriad Pro";
+    color: white;
+    font-size: 11px;
+    text-align: center;
+}
+
+#larrow {
+    size: 50px;
+}
+
+#navbar {
+    padding-left: 250px;
+    margin-top: 2px;
+    height: 99%;
+}
