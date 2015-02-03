@@ -1,5 +1,6 @@
 /* specific styles for bootstrap demo*/
 
+<<<<<<< HEAD
 
 .box {
     height: 60px;
@@ -16,6 +17,8 @@
     height: 60px;
 }
 
+=======
+>>>>>>> d107b5adc6fc8de3eb2899943fae85a3c5ca755a
 .gray-box {
     background: #1f8ae0;
     height: 200px;
@@ -36,7 +39,11 @@
 
 .navy-box {
     height: 110px;
+<<<<<<< HEAD
     background: #134670;
+=======
+    border: 1px solid navy;
+>>>>>>> d107b5adc6fc8de3eb2899943fae85a3c5ca755a
 }
 
 .green-box {
@@ -46,6 +53,7 @@
     border-radius: 10px;
 }
 
+<<<<<<< HEAD
 .lightgray-box1 {
     height: 50px;
     border-top: 1px solid gray;
@@ -65,6 +73,12 @@
     height: 50px;
     border: 1px solid gray;
     margin-top:40px;
+=======
+.lightgray-box {
+    height: 50px;
+    border: 1px solid gray;
+    margin-top: 40px;
+>>>>>>> d107b5adc6fc8de3eb2899943fae85a3c5ca755a
 }
 
 .sidebar-box {
@@ -72,11 +86,14 @@
     border: 1px solid gray;
 }
 
+<<<<<<< HEAD
 .responses-box {
     height: 100px;
     border: solid orange;
 }
 
+=======
+>>>>>>> d107b5adc6fc8de3eb2899943fae85a3c5ca755a
 .content-box {
     height: 835px;
     border: 1px solid gray;
@@ -85,6 +102,7 @@
 .anotherblue-box {
     height: 200px;
     border: 1px solid blue;
+<<<<<<< HEAD
 }
 
 .tallbox {
@@ -378,4 +396,6 @@ margin: 18px;
     padding-left: 250px;
     margin-top: 2px;
     height: 99%;
+=======
+>>>>>>> d107b5adc6fc8de3eb2899943fae85a3c5ca755a
 }
